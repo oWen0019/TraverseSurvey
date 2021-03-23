@@ -1,2 +1,2 @@
 # TraverseSurvey
-a android software for traverse survery 
+a android software for traverse survey 
