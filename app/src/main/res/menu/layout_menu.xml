@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add_layout"
+        android:icon="@drawable/ic_baseline_touch_app_24"
+        android:title="@string/action_switch_layout"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/undo"
+        android:icon="@drawable/ic_baseline_undo_24"
+        android:title="undo"
+        app:showAsAction="ifRoom" />
+</menu>

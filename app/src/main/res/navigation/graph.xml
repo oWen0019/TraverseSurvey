@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/graph"
+    app:startDestination="@id/traverseFragment">
+
+    <fragment
+        android:id="@+id/traverseFragment"
+        android:name="com.dolphin.traverse.fragments.TraverseFragment"
+        android:label="草图界面"
+        tools:layout="@layout/fragment_traverse" >
+        <action
+            android:id="@+id/action_traverseFragment_to_resultFragment"
+            app:destination="@id/resultFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="com.dolphin.traverse.fragments.ResultFragment"
+        android:label="平差计算界面"
+        tools:layout="@layout/fragment_result" >
+
+    </fragment>
+</navigation>

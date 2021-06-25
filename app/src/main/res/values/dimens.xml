@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="point_text_offset">30.0</dimen>
+    <dimen name="default_margin">6dp</dimen>
+    <dimen name="default_padding">6dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+
+</resources>

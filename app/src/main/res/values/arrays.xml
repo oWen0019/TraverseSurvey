@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traverse_type">
+        <item>闭合导线</item>
+        <item>附和导线</item>
+        <item>支导线</item>
+    </string-array>
+
+    <string-array name="point_type">
+        <item>控制点</item>
+        <item>导线点</item>
+    </string-array>
+
+    <string-array name="zzjfx">
+        <item>左角</item>
+        <item>右角</item>
+    </string-array>
+</resources>

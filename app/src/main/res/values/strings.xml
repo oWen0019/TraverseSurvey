@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Traverse</string>
+    <string name="action_switch_layout">tool</string>
+    <string name="open_draw">开启草图绘制</string>
+    <string name="point_name">%s-%d</string>
+    <string name="pick_type">请选择导线类型</string>
+    <string name="pick_fx">请选择转折角方向</string>
+    <string name="pick_point_type">请选择点类型</string>
+    <string name="point_count">导线点数: %s</string>
+    <string name="control_point_count">控制点数: %s</string>
+    <string name="angle">转折角</string>
+    <string name="f_bc">前边长</string>
+    <string name="b_bc">后边长</string>
+    <string name="x_cord">坐标X</string>
+    <string name="y_cord">坐标Y</string>
+
+
+    <string name="comfirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="pls_input">请输入边长和转折角</string>
+    <string name="pls_c_input">请输入控制点坐标</string>
+    <string name="non_null">输入不能为空</string>
+    <string name="calculation">平差计算</string>
+    <string name="storage">保存</string>
+
+
+    <string name="kz_text">坐标X：%s, 坐标Y：%s</string>
+    <string name="dx_text">转折角：%s, 前边长：%s, 后边长：%s</string>
+    <string name="check">检核</string>
+    <string name="result">结果</string>
+    <string name="clear_data">清空数据</string>
+</resources>
